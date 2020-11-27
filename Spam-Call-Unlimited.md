@@ -25,11 +25,11 @@ $ cd Prank-Spam-Call
 
 $ ls
 
-$ chmod +x * Prank-Spam-Call
+$ chmod +x * MR_RB.php
 
 $ ls
 
-$ php ...php
+$ php MR_RB.php
 
 # Dan Terima Kasih
 # Jangan Lupa Follow https://github.com/danielerik12
