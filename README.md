@@ -17,19 +17,19 @@ $ pkg install curl
 
 $ pkg install git
 
-$ git clone https://github.com/.....
+$ git clone https://github.com/danielerik12/Prank-Spam-Call
 
 $ ls
 
-$ cd ....
+$ cd Prank-Spam-Call
 
 $ ls
 
-$ chmod +x * .....
+$ chmod +x * Prank-Spam-Call
 
 $ ls
 
-$ php .....php
+$ php ...php
 
 # Dan Terima Kasih
 # Jangan Lupa Follow https://github.com/danielerik12
